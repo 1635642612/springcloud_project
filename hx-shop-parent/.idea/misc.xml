@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-basics/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-basics/meite-shop-basics-springcloud-eureka/target/classes/META-INF/maven/com.mayikt/meite-shop-basics-springcloud-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-basics/meite-shop-basics-springcloud-eureka/target/classes/META-INF/maven/com.mayikt/meite-shop-basics-springcloud-eureka/pom.properties" />
+        <option value="$PROJECT_DIR$/hx-shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-portal/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-service-api/meite-shop-service-api-member/target/classes/META-INF/maven/com.mayikt/meite-shop-service-api-member/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-service-api/meite-shop-service-api-member/target/classes/META-INF/maven/com.mayikt/meite-shop-service-api-member/pom.properties" />
+        <option value="$PROJECT_DIR$/hx-shop-service-api/meite-shop-service-api-weixin/target/classes/META-INF/maven/com.mayikt/meite-shop-service-api-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-service-api/meite-shop-service-api-weixin/target/classes/META-INF/maven/com.mayikt/meite-shop-service-api-weixin/pom.properties" />
+        <option value="$PROJECT_DIR$/hx-shop-service-impl/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-service-impl/meite-shop-service-member/target/classes/META-INF/maven/com.mayikt/meite-shop-service-member/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-service-impl/meite-shop-service-member/target/classes/META-INF/maven/com.mayikt/meite-shop-service-member/pom.properties" />
+        <option value="$PROJECT_DIR$/hx-shop-service-impl/meite-shop-service-weixin/target/classes/META-INF/maven/com.mayikt/meite-shop-service-weixin/pom.xml" />
+        <option value="$PROJECT_DIR$/hx-shop-service-impl/meite-shop-service-weixin/target/classes/META-INF/maven/com.mayikt/meite-shop-service-weixin/pom.properties" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/hx-shop-basics/hx-shop-basics-springcloud-eureka/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
