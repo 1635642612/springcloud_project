@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hx-shop-api-weixin-entity" />
         <module name="hx-shop-basics-eureka" />
-        <module name="hx-shop-service-weixin" />
-        <module name="hx-shop-service-member" />
         <module name="hx-shop-service-api-weixin" />
         <module name="hx-shop-service-api-member" />
+        <module name="hx-shop-common-core" />
+        <module name="hx-shop-basics-zuul" />
+        <module name="hx-shop-service-weixin" />
+        <module name="hx-shop-api-member-entity" />
+        <module name="hx-shop-service-member" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="hx-shop-common-core" target="1.8" />
+      <module name="hxshopcommoncore" target="1.8" />
       <module name="meite-shop-basics-springcloud-eureka (1)" target="1.5" />
       <module name="meite-shop-basics-springcloud-eureka (2)" target="1.5" />
       <module name="meite-shop-basics-springcloud-eureka (3)" target="1.5" />
@@ -30,11 +36,16 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hx-shop-api-member-entity" options="-parameters" />
+      <module name="hx-shop-api-weixin-entity" options="-parameters" />
       <module name="hx-shop-basics-eureka" options="-parameters" />
+      <module name="hx-shop-basics-zuul" options="-parameters" />
+      <module name="hx-shop-common-core" options="-parameters" />
       <module name="hx-shop-service-api-member" options="-parameters" />
       <module name="hx-shop-service-api-weixin" options="-parameters" />
       <module name="hx-shop-service-member" options="-parameters" />
       <module name="hx-shop-service-weixin" options="-parameters" />
+      <module name="hxshopcommoncore" options="-parameters" />
       <module name="meite-shop-basics-springcloud-eureka (1)" options="-parameters" />
     </option>
   </component>

@@ -1,0 +1,6 @@
+com\hx\base\BaseResponse.class
+com\hx\core\utils\RedisUtil.class
+com\hx\constants\Constants.class
+com\hx\core\utils\MD5Util.class
+com\hx\core\utils\RegexUtils.class
+com\hx\base\BaseApiService.class

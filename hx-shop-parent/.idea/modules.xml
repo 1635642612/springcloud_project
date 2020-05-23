@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hx-shop-api-entitys/hx-shop-api-member-entitys.iml" filepath="$PROJECT_DIR$/hx-shop-api-entitys/hx-shop-api-member-entitys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hx-shop-common/hx-shop-common-core/hx-shop-common-core.iml" filepath="$PROJECT_DIR$/hx-shop-common/hx-shop-common-core/hx-shop-common-core.iml" />
+    </modules>
+  </component>
+</project>

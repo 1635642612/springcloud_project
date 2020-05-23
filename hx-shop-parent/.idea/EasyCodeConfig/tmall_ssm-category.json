@@ -1,0 +1,24 @@
+{
+  "name" : "Category",
+  "comment" : null,
+  "fullColumn" : [ {
+    "name" : "id",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  }, {
+    "name" : "name",
+    "comment" : null,
+    "type" : null,
+    "shortType" : null,
+    "custom" : false,
+    "ext" : { }
+  } ],
+  "pkColumn" : null,
+  "otherColumn" : null,
+  "savePackageName" : "com.shop.weixin.entity",
+  "savePath" : "./hx-shop-service-impl/hx-shop-service-member/src/main/java/com/shop/weixin/entity",
+  "saveModelName" : "hx-shop-service-member"
+}

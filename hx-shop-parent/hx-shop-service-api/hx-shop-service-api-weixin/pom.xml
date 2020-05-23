@@ -6,4 +6,21 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>hx-shop-service-api-weixin</artifactId>
+  <dependencies>
+    
+    <dependency>
+      <groupId>com.hx</groupId>
+      <artifactId>hx-shop-api-weixin-entity</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+    </dependency>
+      <dependency>
+          <groupId>com.hx</groupId>
+          <artifactId>hx-shop-common-core</artifactId>
+          <version>0.0.1-SNAPSHOT</version>
+          <scope>compile</scope>
+      </dependency>
+
+  </dependencies>
+
+
 </project>

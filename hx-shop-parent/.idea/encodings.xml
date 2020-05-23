@@ -2,16 +2,32 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-api-entitys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-api-entitys/hx-shop-api-member-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-api-entitys/hx-shop-api-weixin-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-api-entitys/hx-shop-api-weixin-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-api-entitys/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-api-entitys/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-basics" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-basics/hx-shop-basics-eureka" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/hx-shop-basics/hx-shop-basics-springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-basics/hx-shop-basics-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-basics/hx-shop-basics-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-basics/hx-shop-basics-zuul/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-common/hx-shop-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-common/hx-shop-common-core/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-portal/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-portal/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-service-api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-service-api/hx-shop-service-api-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-service-api/hx-shop-service-api-member/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-service-api/hx-shop-service-api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-service-api/hx-shop-service-api-weixin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-service-impl" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-service-impl/hx-shop-service-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-service-impl/hx-shop-service-member/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hx-shop-service-impl/hx-shop-service-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hx-shop-service-impl/hx-shop-service-weixin/src/main/java" charset="UTF-8" />
   </component>
 </project>
