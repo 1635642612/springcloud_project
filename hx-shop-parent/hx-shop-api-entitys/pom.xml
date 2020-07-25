@@ -14,7 +14,6 @@
     <modules>
         <module>hx-shop-api-weixin-entity</module>
         <module>hx-shop-api-member-entity</module>
-        <module>hx-shop-api-member-entity</module>
     </modules>
 
 

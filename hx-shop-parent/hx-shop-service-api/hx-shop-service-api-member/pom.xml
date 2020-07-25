@@ -17,7 +17,11 @@
 			<groupId>com.hx</groupId>
 			<artifactId>hx-shop-api-member-entity</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-			<scope>compile</scope>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>com.hx</groupId>
+            <artifactId>hx-shop-common-core</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>

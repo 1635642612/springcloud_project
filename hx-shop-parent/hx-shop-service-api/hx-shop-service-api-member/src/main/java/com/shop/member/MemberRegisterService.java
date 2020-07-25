@@ -1,5 +1,4 @@
 package com.shop.member;
-
 import com.alibaba.fastjson.JSONObject;
 import com.hx.base.BaseResponse;
 import com.hx.member.entity.UserEntity;

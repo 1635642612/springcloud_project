@@ -1,14 +1,14 @@
 package com.hx.base;
 
-import com.hx.constants.Constants;
-import org.springframework.stereotype.Component;
+		import com.hx.constants.Constants;
+		import org.springframework.stereotype.Component;
 
 
-import lombok.Data;
+		import lombok.Data;
 
 /**
- * 
- * 
+ *
+ *
  * @description: 微服务接口实现该接口可以使用传递参数可以直接封装统一返回结果集
  */
 @Data
@@ -43,5 +43,5 @@ public class BaseApiService<T> {
 	public BaseResponse<T> setResult(Integer code, String msg, T data) {
 		return new BaseResponse<T>(code, msg, data);
 	}
-			
+
 }

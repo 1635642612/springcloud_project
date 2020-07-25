@@ -6,15 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hx-shop-api-member-entity" />
         <module name="hx-shop-api-weixin-entity" />
         <module name="hx-shop-basics-eureka" />
-        <module name="hx-shop-service-api-weixin" />
-        <module name="hx-shop-service-api-member" />
-        <module name="hx-shop-common-core" />
         <module name="hx-shop-basics-zuul" />
-        <module name="hx-shop-service-weixin" />
-        <module name="hx-shop-api-member-entity" />
+        <module name="hx-shop-common-core" />
+        <module name="hx-shop-service-api-member" />
+        <module name="hx-shop-service-api-weixin" />
         <module name="hx-shop-service-member" />
+        <module name="hx-shop-service-weixin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
